@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspace/dotnet/MyLearningProject/MyLearningProject.csproj": {}
+    "/workspace/dotnet/ConsoleProject/MyLearningProject.csproj": {}
   },
   "projects": {
-    "/workspace/dotnet/MyLearningProject/MyLearningProject.csproj": {
+    "/workspace/dotnet/ConsoleProject/MyLearningProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspace/dotnet/MyLearningProject/MyLearningProject.csproj",
+        "projectUniqueName": "/workspace/dotnet/ConsoleProject/MyLearningProject.csproj",
         "projectName": "MyLearningProject",
-        "projectPath": "/workspace/dotnet/MyLearningProject/MyLearningProject.csproj",
+        "projectPath": "/workspace/dotnet/ConsoleProject/MyLearningProject.csproj",
         "packagesPath": "/home/gitpod/.nuget/packages/",
-        "outputPath": "/workspace/dotnet/MyLearningProject/obj/",
+        "outputPath": "/workspace/dotnet/ConsoleProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gitpod/.nuget/NuGet/NuGet.Config"

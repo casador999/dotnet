@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UMpy0pOWvHldLYAE24M9pXnceB5IKhkCwes/zV+dLJwYQArCkcawccczUVduJotWnPZoXgY16DxrcrEY8wZzvw==",
+  "dgSpecHash": "x4LkmhQIbrQnWLadNHKbzZojnPYz5KrDCP3dN5F1g5TyYXe11wTN7EUI11BlN5aSEIuv1k7Njcehdjqx9QeWRg==",
   "success": true,
-  "projectFilePath": "/workspace/dotnet/MyLearningProject/MyLearningProject.csproj",
+  "projectFilePath": "/workspace/dotnet/ConsoleProject/MyLearningProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

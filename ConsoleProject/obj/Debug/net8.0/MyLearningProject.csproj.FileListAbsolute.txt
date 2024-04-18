@@ -1,0 +1,15 @@
+/workspace/dotnet/ConsoleProject/bin/Debug/net8.0/MyLearningProject
+/workspace/dotnet/ConsoleProject/bin/Debug/net8.0/MyLearningProject.deps.json
+/workspace/dotnet/ConsoleProject/bin/Debug/net8.0/MyLearningProject.runtimeconfig.json
+/workspace/dotnet/ConsoleProject/bin/Debug/net8.0/MyLearningProject.dll
+/workspace/dotnet/ConsoleProject/bin/Debug/net8.0/MyLearningProject.pdb
+/workspace/dotnet/ConsoleProject/obj/Debug/net8.0/MyLearningProject.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/dotnet/ConsoleProject/obj/Debug/net8.0/MyLearningProject.AssemblyInfoInputs.cache
+/workspace/dotnet/ConsoleProject/obj/Debug/net8.0/MyLearningProject.AssemblyInfo.cs
+/workspace/dotnet/ConsoleProject/obj/Debug/net8.0/MyLearningProject.csproj.CoreCompileInputs.cache
+/workspace/dotnet/ConsoleProject/obj/Debug/net8.0/MyLearningProject.sourcelink.json
+/workspace/dotnet/ConsoleProject/obj/Debug/net8.0/MyLearningProject.dll
+/workspace/dotnet/ConsoleProject/obj/Debug/net8.0/refint/MyLearningProject.dll
+/workspace/dotnet/ConsoleProject/obj/Debug/net8.0/MyLearningProject.pdb
+/workspace/dotnet/ConsoleProject/obj/Debug/net8.0/MyLearningProject.genruntimeconfig.cache
+/workspace/dotnet/ConsoleProject/obj/Debug/net8.0/ref/MyLearningProject.dll
