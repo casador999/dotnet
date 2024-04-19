@@ -58,3 +58,11 @@
 /workspace/dotnet/ConsoleProject/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
 /workspace/dotnet/ConsoleProject/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
 /workspace/dotnet/ConsoleProject/obj/Debug/net8.0/MyLearningProject.csproj.CopyComplete
+/workspace/dotnet/ConsoleProject/bin/Debug/net8.0/az/Humanizer.resources.dll
+/workspace/dotnet/ConsoleProject/bin/Debug/net8.0/hy/Humanizer.resources.dll
+/workspace/dotnet/ConsoleProject/bin/Debug/net8.0/is/Humanizer.resources.dll
+/workspace/dotnet/ConsoleProject/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+/workspace/dotnet/ConsoleProject/bin/Debug/net8.0/ku/Humanizer.resources.dll
+/workspace/dotnet/ConsoleProject/bin/Debug/net8.0/lb/Humanizer.resources.dll
+/workspace/dotnet/ConsoleProject/bin/Debug/net8.0/lt/Humanizer.resources.dll
+/workspace/dotnet/ConsoleProject/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
